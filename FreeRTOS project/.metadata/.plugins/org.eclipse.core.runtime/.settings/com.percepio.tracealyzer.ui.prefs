@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+rtosType=FreeRTOS
+sameFileHandling=Always launch new Tracelyzer
+traceBufferAddressExpression=RecorderDataPtr
+traceBufferSizeExpression=sizeof(*RecorderDataPtr)
+tracealyzerPath=C\:\\Program Files\\Percepio\\Tracealyzer 4\\Tracealyzer.exe
+tracealyzerPreviousPaths=C\:\\Program Files;C\:\\Program Files\\Percepio\\Tracealyzer 4\\Tracealyzer.exe
